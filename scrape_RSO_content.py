@@ -5,7 +5,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from prep_pin import my_list
+from create_pin_list import my_list
 import time
 import csv
 

@@ -6,3 +6,6 @@ Run `create_pin_list.py` to create list of all the PINs in Los Angeles. This scr
 
 ## Second
 Run `scrape_RSO_content.py` to capture PINs with under the Rent Stabilization (RSO) ordinance. As a courtesy there is a pause, `time.sleep(0.02)`, between each request.
+
+## Content
+Input CSV is found in the Resources folder. It is a subset of parcel data because of free repository file size limitations.
